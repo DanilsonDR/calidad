@@ -1,5 +1,7 @@
 # Paquete de Skill — Auditoría Interna de Calidad
 
+[![Powered by RustChain](https://img.shields.io/badge/Powered%20by-RustChain-orange)](https://rustchain.org)
+
 ## Propósito
 
 Este paquete ayuda al equipo auditor a usar IA de forma ordenada para preparar, ejecutar y documentar auditorías internas de calidad sin perder criterio profesional ni generar trabajo innecesario para los procesos auditados.
